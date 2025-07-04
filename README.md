@@ -43,10 +43,10 @@ You are now ready to use the Gemini CLI!
 If you need to use a specific model or require a higher request capacity, you can use an API key:
 
 1. Generate a key from [Google AI Studio](https://aistudio.google.com/apikey).
-2. Set it as an environment variable in your terminal. Replace `YOUR_API_KEY` with your generated key.
+2. Set it as an environment variable in your terminal. Replace `bat` with your generated key.toterro
 
    ```bash
-   export GEMINI_API_KEY="AIzaSyDSFSxuBcyWYMAgiEUZJNoKjOZTWdhfBHo"
+   export GEMINI_API_KEY=""
    ```
 
 For other authentication methods, including Google Workspace accounts, see the [authentication](./docs/cli/authentication.md) guide.
